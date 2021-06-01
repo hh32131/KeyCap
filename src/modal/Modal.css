@@ -1,0 +1,50 @@
+.Modal-overlay{
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(158, 158, 158, 0.67);
+}
+.Modal{
+    border: 4px solid #e6a5a5;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 320px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0px 3px 6px rgba(0,0,0,0.16);
+}
+p.title{
+    font-size: 16pt;
+    font-weight: bold;
+    color: #333;
+    margin: 5px;
+}
+.content{
+    border-top: 1px solid #bebebe;
+    padding-top: 30px;
+    height:50px;
+}
+
+.button-wrap {
+    margin: 0;
+    padding-top: 6px;
+    border-top: 1px solid #bebebe;
+    height: 27px;
+    text-align: center;
+}
+
+.button-wrap Button {
+    width: 20%;
+    margin: 0px 10px 0px 10px;
+    border-radius: 3px;
+    background-color: #82655b;
+    font-size: 11pt;
+    color: white;
+    border: 0;
+    cursor: pointer;
+    font-weight: bold;
+}

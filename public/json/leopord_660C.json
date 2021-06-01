@@ -1,0 +1,81 @@
+{
+  "0":
+[
+  {"key":1, "color":"blue" , "type": "basic", "word": "esc"}
+, {"key":2, "color":"gray" , "type": "basic", "word": "1"}
+, {"key":3, "color":"gray" , "type": "basic", "word": "2"}
+, {"key":4, "color":"gray" , "type": "basic", "word": "3"}
+, {"key":5, "color":"gray" , "type": "basic", "word": "4"}
+, {"key":6, "color":"gray" , "type": "basic", "word": "5"}
+, {"key":7, "color":"gray" , "type": "basic", "word": "6"}
+, {"key":8, "color":"gray" , "type": "basic", "word": "7"}
+, {"key":9, "color":"gray" , "type": "basic", "word": "8"}
+, {"key":10, "color":"gray" , "type": "basic", "word": "9"}
+, {"key":11, "color":"gray" , "type": "basic", "word": "0"}
+, {"key":12, "color":"gray" , "type": "basic", "word": "-"}
+, {"key":13, "color":"gray" , "type": "basic", "word": "="}
+, {"key":14, "color":"blue" , "type": "backSpace", "word": "backSpace"}
+, {"key":15}
+, {"key":16, "color":"blue" , "type": "basic", "word": "insert"}
+]
+,"1":[
+{"key":1, "color":"blue" , "type": "tab", "word": "tab"}
+, {"key":2, "color":"gray" , "type": "basic", "word": "q"}
+, {"key":3, "color":"gray" , "type": "basic", "word": "w"}
+, {"key":4, "color":"gray" , "type": "basic", "word": "e"}
+, {"key":5, "color":"gray" , "type": "basic", "word": "r"}
+, {"key":6, "color":"gray" , "type": "basic", "word": "t"}
+, {"key":7, "color":"gray" , "type": "basic", "word": "y"}
+, {"key":8, "color":"gray" , "type": "basic", "word": "u"}
+, {"key":9, "color":"gray" , "type": "basic", "word": "i"}
+, {"key":10, "color":"gray" , "type": "basic", "word": "o"}
+, {"key":11, "color":"gray" , "type": "basic", "word": "p"}
+, {"key":12, "color":"gray" , "type": "basic", "word": "["}
+, {"key":13, "color":"gray" , "type": "basic", "word": "]"}
+, {"key":14, "color":"gray" , "type": "tab", "word": "backSlash"}
+, {"key":15}
+, {"key":16, "color":"blue" , "type": "basic", "word": "delete"}
+]
+,"2":[
+{"key":1, "color":"blue" , "type": "capsLock", "word": "capsLock"}
+, {"key":2, "color":"gray" , "type": "basic", "word": "a"}
+, {"key":3, "color":"gray" , "type": "basic", "word": "s"}
+, {"key":4, "color":"gray" , "type": "basic", "word": "d"}
+, {"key":5, "color":"gray" , "type": "basic", "word": "f"}
+, {"key":6, "color":"gray" , "type": "basic", "word": "g"}
+, {"key":7, "color":"gray" , "type": "basic", "word": "h"}
+, {"key":8, "color":"gray" , "type": "basic", "word": "j"}
+, {"key":9, "color":"gray" , "type": "basic", "word": "k"}
+, {"key":10, "color":"gray" , "type": "basic", "word": "l"}
+, {"key":11, "color":"gray" , "type": "basic", "word": "colon"}
+, {"key":12, "color":"gray" , "type": "basic", "word": "quote"}
+, {"key":13, "color":"blue" , "type": "enter", "word": "enter"}
+]
+,"3":[
+{"key":1, "color":"blue" , "type": "enter", "word": "leftShift"}
+, {"key":2, "color":"gray" , "type": "basic", "word": "z"}
+, {"key":3, "color":"gray" , "type": "basic", "word": "x"}
+, {"key":4, "color":"gray" , "type": "basic", "word": "c"}
+, {"key":5, "color":"gray" , "type": "basic", "word": "v"}
+, {"key":6, "color":"gray" , "type": "basic", "word": "b"}
+, {"key":7, "color":"gray" , "type": "basic", "word": "n"}
+, {"key":8, "color":"gray" , "type": "basic", "word": "m"}
+, {"key":9, "color":"gray" , "type": "basic", "word": "comma"}
+, {"key":10, "color":"gray" , "type": "basic", "word": "dot"}
+, {"key":11, "color":"gray" , "type": "basic", "word": "slash"}
+, {"key":12, "color":"blue" , "type": "enter", "word": "rightShift"}
+, {"key":13, "color":"blue" , "type": "basic", "word": "↑"}
+]
+,"4":[
+{"key":1, "color":"blue" , "type": "middle", "word": "leftCtrl"}
+, {"key":2, "color":"blue" , "type": "basic", "word": "leftWindow"}
+, {"key":3, "color":"blue" , "type": "middle", "word": "leftAlt"}
+, {"key":4, "color":"gray" , "type": "space", "word": "space"}
+, {"key":5, "color":"blue" , "type": "middle", "word": "rightAlt"}
+, {"key":6, "color":"blue" , "type": "middle", "word": "rightCtrl"}
+, {"key":7, "color":"blue" , "type": "middle", "word": "fn"}
+, {"key":8, "color":"blue" , "type": "basic", "word": "←"}
+, {"key":9, "color":"blue" , "type": "basic", "word": "↓"}
+, {"key":10, "color":"blue" , "type": "basic", "word": "→"}
+]
+}

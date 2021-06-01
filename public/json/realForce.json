@@ -1,0 +1,141 @@
+{
+  "0":
+[
+  {"key":1, "color":"gray" , "type": "basic", "word": "esc"}
+, {"key":2, "type": "basic"}
+, {"key":3, "color":"white" , "type": "basic", "word": "f1"}
+, {"key":4, "color":"white" , "type": "basic", "word": "f2"}
+, {"key":5, "color":"white" , "type": "basic", "word": "f3"}
+, {"key":6, "color":"white" , "type": "basic", "word": "f4"}
+, {"key":7, "type": "empty"}
+, {"key":8, "color":"gray" , "type": "basic", "word": "f5"}
+, {"key":9, "color":"gray" , "type": "basic", "word": "f6"}
+, {"key":10, "color":"gray" , "type": "basic", "word": "f7"}
+, {"key":11, "color":"gray" , "type": "basic", "word": "f8"}
+, {"key":12}
+, {"key":13, "color":"white" , "type": "basic", "word": "f9"}
+, {"key":14, "color":"white" , "type": "basic", "word": "f10"}
+, {"key":15, "color":"white" , "type": "basic", "word": "f11"}
+, {"key":16, "color":"white" , "type": "basic", "word": "f12"}
+, {"key":17}
+, {"key":18, "color":"gray" , "type": "basic", "word": "print"}
+, {"key":19, "color":"gray" , "type": "basic", "word": "numLock"}
+, {"key":20, "color":"gray" , "type": "basic", "word": "pause"}
+]
+, "1":[]
+,"2":[
+{"key":1, "color":"gray" , "type": "basic", "word": "~"}
+, {"key":2, "color":"white" , "type": "basic", "word": "1"}
+, {"key":3, "color":"white" , "type": "basic", "word": "2"}
+, {"key":4, "color":"white" , "type": "basic", "word": "3"}
+, {"key":5, "color":"white" , "type": "basic", "word": "4"}
+, {"key":6, "color":"white" , "type": "basic", "word": "5"}
+, {"key":7, "color":"white" , "type": "basic", "word": "6"}
+, {"key":8, "color":"white" , "type": "basic", "word": "7"}
+, {"key":9, "color":"white" , "type": "basic", "word": "8"}
+, {"key":10, "color":"white" , "type": "basic", "word": "9"}
+, {"key":11, "color":"white" , "type": "basic", "word": "0"}
+, {"key":12, "color":"white" , "type": "basic", "word": "-"}
+, {"key":13, "color":"white" , "type": "basic", "word": "="}
+, {"key":14, "color":"gray" , "type": "backSpace", "word": "backSpace"}
+, {"key":15}
+, {"key":16, "color":"gray" , "type": "basic", "word": "insert"}
+, {"key":17, "color":"gray" , "type": "basic", "word": "home"}
+, {"key":18, "color":"gray" , "type": "basic", "word": "pageUp"}
+, {"key":19}
+, {"key":20, "color":"gray" , "type": "basic", "word": "numberLock"}
+, {"key":21, "color":"gray" , "type": "basic", "word": "/"}
+, {"key":22, "color":"gray" , "type": "basic", "word": "*"}
+, {"key":23, "color":"gray" , "type": "basic", "word": "-"}
+]
+,"3":[
+{"key":1, "color":"gray" , "type": "tab", "word": "tab"}
+, {"key":2, "color":"white" , "type": "basic", "word": "q"}
+, {"key":3, "color":"white" , "type": "basic", "word": "w"}
+, {"key":4, "color":"white" , "type": "basic", "word": "e"}
+, {"key":5, "color":"white" , "type": "basic", "word": "r"}
+, {"key":6, "color":"white" , "type": "basic", "word": "t"}
+, {"key":7, "color":"white" , "type": "basic", "word": "y"}
+, {"key":8, "color":"white" , "type": "basic", "word": "u"}
+, {"key":9, "color":"white" , "type": "basic", "word": "i"}
+, {"key":10, "color":"white" , "type": "basic", "word": "o"}
+, {"key":11, "color":"white" , "type": "basic", "word": "p"}
+, {"key":12, "color":"white" , "type": "basic", "word": "["}
+, {"key":13, "color":"white" , "type": "basic", "word": "]"}
+, {"key":14, "color":"gray" , "type": "tab", "word": "backSlash"}
+, {"key":15}
+, {"key":16, "color":"gray" , "type": "basic", "word": "delete"}
+, {"key":17, "color":"gray" , "type": "basic", "word": "end"}
+, {"key":18, "color":"gray" , "type": "basic", "word": "pageDown"}
+, {"key":19}
+, {"key":20, "color":"white" , "type": "basic", "word": "right7"}
+, {"key":21, "color":"white" , "type": "basic", "word": "right8"}
+, {"key":22, "color":"white" , "type": "basic", "word": "right9"}
+, {"key":23, "color":"gray" , "type": "basic", "word": "right+"}
+]
+,"4":[
+{"key":1, "color":"gray" , "type": "capsLock", "word": "capsLock"}
+, {"key":2, "color":"white" , "type": "basic", "word": "a"}
+, {"key":3, "color":"white" , "type": "basic", "word": "s"}
+, {"key":4, "color":"white" , "type": "basic", "word": "d"}
+, {"key":5, "color":"white" , "type": "basic", "word": "f"}
+, {"key":6, "color":"white" , "type": "basic", "word": "g"}
+, {"key":7, "color":"white" , "type": "basic", "word": "h"}
+, {"key":8, "color":"white" , "type": "basic", "word": "j"}
+, {"key":9, "color":"white" , "type": "basic", "word": "k"}
+, {"key":10, "color":"white" , "type": "basic", "word": "l"}
+, {"key":11, "color":"white" , "type": "basic", "word": "colon"}
+, {"key":12, "color":"white" , "type": "basic", "word": "quote"}
+, {"key":14, "color":"gray" , "type": "enter", "word": "enter"}
+, {"key":15}
+, {"key":16, "type": "basic"}
+, {"key":17, "type": "basic"}
+, {"key":18, "type": "basic"}
+, {"key":19}
+, {"key":20, "color":"white" , "type": "basic", "word": "right4"}
+, {"key":21, "color":"white" , "type": "basic", "word": "right5"}
+, {"key":22, "color":"white" , "type": "basic", "word": "right6"}
+, {"key":23, "color":"gray" , "type": "basic", "word": "right+"}
+]
+,"5":[
+{"key":1, "color":"gray" , "type": "enter", "word": "leftShift"}
+, {"key":2, "color":"white" , "type": "basic", "word": "z"}
+, {"key":3, "color":"white" , "type": "basic", "word": "x"}
+, {"key":4, "color":"white" , "type": "basic", "word": "c"}
+, {"key":5, "color":"white" , "type": "basic", "word": "v"}
+, {"key":6, "color":"white" , "type": "basic", "word": "b"}
+, {"key":7, "color":"white" , "type": "basic", "word": "n"}
+, {"key":8, "color":"white" , "type": "basic", "word": "m"}
+, {"key":9, "color":"white" , "type": "basic", "word": "comma"}
+, {"key":10, "color":"white" , "type": "basic", "word": "dot"}
+, {"key":11, "color":"white" , "type": "basic", "word": "slash"}
+, {"key":14, "color":"gray" , "type": "shift", "word": "rightShift"}
+, {"key":15}
+, {"key":16, "type": "basic"}
+, {"key":17, "color":"gray" , "type": "basic", "word": "↑"}
+, {"key":18, "type": "basic"}
+, {"key":19}
+, {"key":20, "color":"white" , "type": "basic", "word": "right1"}
+, {"key":21, "color":"white" , "type": "basic", "word": "right2"}
+, {"key":22, "color":"white" , "type": "basic", "word": "right3"}
+, {"key":23, "color":"gray" , "type": "basic", "word": "rightEnter"}
+]
+,"6":[
+{"key":1, "color":"gray" , "type": "middle", "word": "leftCtrl"}
+, {"key":2, "color":"gray" , "type": "middle", "word": "leftWindow"}
+, {"key":3, "color":"gray" , "type": "middle", "word": "leftAlt"}
+, {"key":4, "color":"white" , "type": "space", "word": "space"}
+, {"key":5, "color":"gray" , "type": "middle", "word": "rightAlt"}
+, {"key":6, "color":"gray" , "type": "middle", "word": "rightWindow"}
+, {"key":7, "color":"gray" , "type": "middle", "word": "fn"}
+, {"key":8, "color":"gray" , "type": "middle", "word": "rightCtrl"}
+, {"key":9}
+, {"key":10, "color":"gray" , "type": "basic", "word": "←"}
+, {"key":11, "color":"gray" , "type": "basic", "word": "↓"}
+, {"key":12, "color":"gray" , "type": "basic", "word": "→"}
+, {"key":13}
+, {"key":14, "color":"white" , "type": "basic2mul", "word": "right0"}
+, {"key":15, "color":"white" , "type": "basic", "word": "rightDel"}
+, {"key":16, "color":"gray" , "type": "basic", "word": "rightEnter"}
+]
+}

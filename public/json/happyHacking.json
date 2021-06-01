@@ -1,0 +1,74 @@
+{
+  "0":
+[
+  {"key":1, "color":"gray" , "type": "happy_esc", "word": "esc"}
+, {"key":2, "color":"white" , "type": "basic", "word": "1"}
+, {"key":3, "color":"white" , "type": "basic", "word": "2"}
+, {"key":4, "color":"white" , "type": "basic", "word": "3"}
+, {"key":5, "color":"white" , "type": "basic", "word": "4"}
+, {"key":6, "color":"white" , "type": "basic", "word": "5"}
+, {"key":7, "color":"white" , "type": "basic", "word": "6"}
+, {"key":8, "color":"white" , "type": "basic", "word": "7"}
+, {"key":9, "color":"white" , "type": "basic", "word": "8"}
+, {"key":10, "color":"white" , "type": "basic", "word": "9"}
+, {"key":11, "color":"white" , "type": "basic", "word": "0"}
+, {"key":12, "color":"white" , "type": "basic", "word": "-"}
+, {"key":13, "color":"white" , "type": "basic", "word": "="}
+, {"key":14, "color":"white" , "type": "basic", "word": "backSlash"}
+, {"key":15, "color":"white" , "type": "basic", "word": "~"}
+]
+,"1":[
+{"key":1, "color":"gray" , "type": "tab", "word": "tab"}
+, {"key":2, "color":"white" , "type": "basic", "word": "q"}
+, {"key":3, "color":"white" , "type": "basic", "word": "w"}
+, {"key":4, "color":"white" , "type": "basic", "word": "e"}
+, {"key":5, "color":"white" , "type": "basic", "word": "r"}
+, {"key":6, "color":"white" , "type": "basic", "word": "t"}
+, {"key":7, "color":"white" , "type": "basic", "word": "y"}
+, {"key":8, "color":"white" , "type": "basic", "word": "u"}
+, {"key":9, "color":"white" , "type": "basic", "word": "i"}
+, {"key":10, "color":"white" , "type": "basic", "word": "o"}
+, {"key":11, "color":"white" , "type": "basic", "word": "p"}
+, {"key":12, "color":"white" , "type": "basic", "word": "["}
+, {"key":13, "color":"white" , "type": "basic", "word": "]"}
+, {"key":14, "color":"gray" , "type": "tab", "word": "delete"}
+]
+,"2":[
+{"key":1, "color":"gray" , "type": "capsLock", "word": "capsLock"}
+, {"key":2, "color":"white" , "type": "basic", "word": "a"}
+, {"key":3, "color":"white" , "type": "basic", "word": "s"}
+, {"key":4, "color":"white" , "type": "basic", "word": "d"}
+, {"key":5, "color":"white" , "type": "basic", "word": "f"}
+, {"key":6, "color":"white" , "type": "basic", "word": "g"}
+, {"key":7, "color":"white" , "type": "basic", "word": "h"}
+, {"key":8, "color":"white" , "type": "basic", "word": "j"}
+, {"key":9, "color":"white" , "type": "basic", "word": "k"}
+, {"key":10, "color":"white" , "type": "basic", "word": "l"}
+, {"key":11, "color":"white" , "type": "basic", "word": "colon"}
+, {"key":12, "color":"white" , "type": "basic", "word": "quote"}
+, {"key":13, "color":"gray" , "type": "enter", "word": "enter"}
+]
+,"3":[
+{"key":1, "color":"gray" , "type": "enter", "word": "leftShift"}
+, {"key":2, "color":"white" , "type": "basic", "word": "z"}
+, {"key":3, "color":"white" , "type": "basic", "word": "x"}
+, {"key":4, "color":"white" , "type": "basic", "word": "c"}
+, {"key":5, "color":"white" , "type": "basic", "word": "v"}
+, {"key":6, "color":"white" , "type": "basic", "word": "b"}
+, {"key":7, "color":"white" , "type": "basic", "word": "n"}
+, {"key":8, "color":"white" , "type": "basic", "word": "m"}
+, {"key":9, "color":"white" , "type": "basic", "word": "comma"}
+, {"key":10, "color":"white" , "type": "basic", "word": "dot"}
+, {"key":11, "color":"white" , "type": "basic", "word": "slash"}
+, {"key":12, "color":"gray" , "type": "capsLock", "word": "rightShift"}
+, {"key":13, "color":"gray" , "type": "basic", "word": "function"}
+]
+,"4":[
+{"key":1, "type": "tab"}
+, {"key":2, "color":"gray" , "type": "basic", "word": "leftAlt"}
+, {"key":3, "color":"gray" , "type": "tab", "word": "window"}
+, {"key":4, "color":"white" , "type": "happy_space", "word": "space"}
+, {"key":5, "color":"gray" , "type": "tab", "word": "stop"}
+, {"key":6, "color":"gray" , "type": "basic", "word": "rightALt"}
+]
+}
